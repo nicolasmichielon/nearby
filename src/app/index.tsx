@@ -1,5 +1,4 @@
 import { View, Text } from "react-native";
-import { FlipInEasyX } from "react-native-reanimated";
 
 export default function Index() {
   return (
