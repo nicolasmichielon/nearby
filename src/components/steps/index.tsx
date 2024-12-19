@@ -16,7 +16,7 @@ export function Steps() {
       />
       <Step
         icon={IconQrcode}
-        title="Ative o seu cupom com QR Code"
+        title="Ative o cupom com QR Code"
         description="Escaneie o código no estabelecimento para usar o benefício"
       />
       <Step
